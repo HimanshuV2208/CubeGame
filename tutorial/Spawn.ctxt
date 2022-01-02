@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Spawn
+comment1.params=handler\ hud
+comment1.target=Spawn(Handler,\ HUD)
+comment2.params=
+comment2.target=void\ tick()
+numComments=3
